@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Paris_bbox",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.471974236131504, 48.240878479564095 ], [ 3.288843673790921, 48.240878479564095 ], [ 3.288843673790921, 49.451461787695671 ], [ 1.471974236131504, 49.451461787695671 ], [ 1.471974236131504, 48.240878479564095 ] ] ] } }
+]
+}
